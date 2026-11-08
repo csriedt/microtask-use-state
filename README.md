@@ -60,7 +60,7 @@ The first is the read taken before the tick. The second is the same read after t
 
 ## Related
 
-The write-up lives on my site, once it's published: chrisriedt.com
+The write-up is at <https://chrisriedt.com/projects/microtask-use-state/>.
 
 ## Licence
 
